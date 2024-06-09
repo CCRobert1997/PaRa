@@ -117,11 +117,6 @@ This project is designed for generating and editing images using PaRa and LoRA m
     python average_ssim.py /home/ubuntu/project/diffusion_model/concept_sliders/lora_as_controller/sliders/single_image_generate_vanilla_SDXL_more_sample/bear_plushie_rank_4
     ```
 
-## Notes
-
-- Ensure all paths provided in the commands are correct and accessible.
-- Modify the prompt and image paths as per your specific use case.
-- Refer to the respective script files for more details on their usage and functionality.
 
 
 
